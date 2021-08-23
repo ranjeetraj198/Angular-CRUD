@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Google Pixel Slate 12.3-Inch 2 in 1 Laptop Intel Core m3, 8GB RAM, 64GB, Aspect Ratio 3:2",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71k%2BKbTBn5L._SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "GOOGLE PIXEL 4A (JUST BLACK, 6GB RAM, 128GB STORAGE)",
+      "image": "https://vlebazaar.in/image/cache/catalog//B08CFSZLQ4/Google-Pixel-4a-Just-Black-6GB-RAM-128GB-Storage-B08CFSZLQ4-1000x1000.jpg"
+    },
+    {
+      "title": "TCS Images",
+      "image": "https://content.techgig.com/thumb/msid-81763365,width-860,resizemode-4/Building-on-Belief-TCS-rolls-out-a-new-brand-statement.jpg?112373",
+      "id": 4
+    },
+    {
+      "title": "PhocusWire Amadeus touts human-tech hybrid for travel's future | PhocusWire",
+      "image": "https://www.phocuswire.com/uploadedImages/Articles/News/2020/July/human%20tech%20hybrid.jpeg?width=800&height=400&scale=both&mode=crop",
+      "id": 5
+    },
+    {
+      "title": "Angular - The modern web developer's platform",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png",
+      "id": 6
+    },
+    {
+      "title": "Python is a programming language that lets you work quickly and integrate systems more effectively.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png",
+      "id": 7
+    },
+    {
+      "title": "Angular - The modern web developer's platform",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png",
+      "id": 8
+    }
+  ]
+}
